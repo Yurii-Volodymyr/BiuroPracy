@@ -1,0 +1,130 @@
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracy.dll.config
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracy.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracy.pdb
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\csc.exe
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\csc.exe.config
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\csc.rsp
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\csi.exe
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\csi.exe.config
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\csi.rsp
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.AppContext.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Console.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.Compression.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Claims.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.ValueTuple.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\vbc.exe
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\vbc.exe.config
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\vbc.rsp
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\VBCSCompiler.exe
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csprojAssemblyReference.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.GlobalResource.resources
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csproj.GenerateResource.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csproj.CoreCompileInputs.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csproj.CopyComplete
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.pdb
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\hibernate.cfg.xml
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracy.BusinessLogic.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\NHibernate.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\Iesi.Collections.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracy.BusinessLogic.pdb
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracyDomain.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy\bin\BiuroPracyDomain.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\hibernate.cfg.xml
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracy.dll.config
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracy.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracy.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\csc.exe
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\csc.exe.config
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\csc.rsp
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\csi.exe
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\csi.exe.config
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\csi.rsp
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.AppContext.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Console.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Claims.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\vbc.exe
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\vbc.exe.config
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\vbc.rsp
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracy.BusinessLogic.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracyDomain.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\NHibernate.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\Iesi.Collections.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracy.BusinessLogic.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\BiuroPracyDomain.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csprojAssemblyReference.cache
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.GlobalResource.resources
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csproj.GenerateResource.cache
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csproj.CoreCompileInputs.cache
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.csproj.CopyComplete
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy\obj\Debug\BiuroPracy.pdb

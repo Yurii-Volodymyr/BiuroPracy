@@ -1,0 +1,9 @@
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\bin\Debug\Iesi.Collections.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\bin\Debug\NHibernate.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\obj\Debug\BiuroPracy.Domain.csprojAssemblyReference.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\obj\Debug\BiuroPracy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\obj\Debug\BiuroPracy.Domain.csproj.CopyComplete
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\bin\Debug\BiuroPracyDomain.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\bin\Debug\BiuroPracyDomain.pdb
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\obj\Debug\BiuroPracyDomain.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracyDomain\obj\Debug\BiuroPracyDomain.pdb

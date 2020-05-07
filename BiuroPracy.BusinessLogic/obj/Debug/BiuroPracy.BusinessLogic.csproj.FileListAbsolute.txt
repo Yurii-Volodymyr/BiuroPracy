@@ -1,0 +1,24 @@
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\hibernate.cfg.xml
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.pdb
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\Iesi.Collections.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\NHibernate.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csproj.CopyComplete
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.pdb
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracyDomain.dll
+C:\Users\WIKTOR\Desktop\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracyDomain.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\hibernate.cfg.xml
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracyDomain.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\Iesi.Collections.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\NHibernate.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracyDomain.pdb
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csproj.CopyComplete
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.dll
+C:\Users\Prosze Pana\source\repos\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.pdb
